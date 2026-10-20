@@ -1,0 +1,17 @@
+{
+  "name": "eclipse-realms-of-ruin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ECLIPSE: REALMS OF RUIN Android RPG prototype",
+  "scripts": {
+    "build": "echo 'Static game files are in www/'",
+    "server": "node server/server.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
