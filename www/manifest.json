@@ -1,0 +1,10 @@
+{
+  "name": "ECLIPSE: REALMS OF RUIN",
+  "short_name": "ECLIPSE",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090b14",
+  "theme_color": "#090b14",
+  "description": "Top-down dark fantasy pixel RPG prototype"
+}
